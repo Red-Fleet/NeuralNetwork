@@ -1,6 +1,7 @@
 # NeuralNetwork
-# multi layered neural network 
-# neural network do not have 'bias' so input cannot contain 'zero'
+# multi layered neural network
+# can be train to predict stock prices , digit recognition (minist dataset) etc
+# neural network do not have 'bias' so input cannot contain 'zero' (data should be masked such that it do not contain 'zero' as input)
 
 # initialise neural network
     # 'inode' number of nodes in input layer / number of input
